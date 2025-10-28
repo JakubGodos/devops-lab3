@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
 Imię: Jakub
-Nazwisko: Godos
+Nazwisko: Godos 
 Ulubiona technologia: DevOps
